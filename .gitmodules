@@ -1,0 +1,3 @@
+[submodule "defects4cpp"]
+	path = defects4cpp
+	url = https://github.com/Suresoft-GLaDOS/defects4cpp
